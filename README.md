@@ -1,7 +1,7 @@
 ## Download pelo Downloader
 
-Apk Versão: 11.7
-Atualização: 12/02/2025
+Apk Versão: 12.5 tv
+Atualização: 03/11/2025
 
 ## Url encurtada
 ```
